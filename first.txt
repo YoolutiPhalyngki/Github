@@ -1,8 +1,9 @@
-The Electronic Telegraph  Thursday 28 September 1995  Science
-
-This summer the Royal Observatory at Herstmonceux
-found new life as a science centre. Andro Linklater
-celebrates a partial victory for the heritage
+#The Electronic Telegraph  Thursday 28 September 1995  Science
+###################################
+################################
+#This summer the Royal Observatory at Herstmonceux
+#found new life as a science centre. Andro Linklater
+#celebrates a partial victory for the heritage
 
 THE SIGHT of a child's top spinning unsupported in mid-air should have been
 surprising. Rotating there in space, it not only defied the rules of gravity,
